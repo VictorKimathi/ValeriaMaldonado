@@ -20,7 +20,7 @@ export const AboutSection = () => {
             duration: 0.8
           }} className="relative">
               <div className="relative aspect-[4/5] overflow-hidden rounded-lg shadow-xl bg-white p-3">
-                <img src="https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Valeria Maldonado writing in her travel journal" className="w-full h-full object-cover rounded" />
+                <img src="va.JPG" alt="Valeria Maldonado writing in her travel journal" className="w-full h-full object-cover rounded" />
                 <div className="absolute top-6 -right-8 rotate-12 w-32 h-32 bg-amber-100 p-3 shadow-md">
                   <img src="https://images.unsplash.com/photo-1530521954074-e64f6810b32d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Travel memory" className="w-full h-full object-cover" />
                 </div>
@@ -67,7 +67,7 @@ export const AboutSection = () => {
               </div>
               <div className="mt-8 flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full overflow-hidden flex-shrink-0">
-                  <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80" alt="Valeria Maldonado" className="w-full h-full object-cover" />
+                  <img src="val.JPG" alt="Valeria Maldonado" className="w-full h-full object-cover" />
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-semibold text-stone-800">
