@@ -67,7 +67,7 @@ export const AboutSection = () => {
               </div>
               <div className="mt-8 flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full overflow-hidden flex-shrink-0">
-                  <img src="val.JPG" alt="Valeria Maldonado" className="w-full h-full object-cover" />
+                  <img src="va.JPG" alt="Valeria Maldonado" className="w-full h-full object-cover" />
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-semibold text-stone-800">
