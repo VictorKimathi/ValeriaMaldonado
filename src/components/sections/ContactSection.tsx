@@ -255,20 +255,7 @@ export const ContactSection = () => {
                   <h4 className="font-medium text-white mb-4">
                     Connect on Social Media
                   </h4>
-                  <div className="flex gap-4">
-                    <a href="#" className="p-3 bg-white/5 hover:bg-white/10 rounded-full transition-colors" aria-label="Instagram">
-                      <Instagram className="text-amber-400" size={20} />
-                    </a>
-                    <a href="#" className="p-3 bg-white/5 hover:bg-white/10 rounded-full transition-colors" aria-label="Twitter">
-                      <Twitter className="text-amber-400" size={20} />
-                    </a>
-                    <a href="#" className="p-3 bg-white/5 hover:bg-white/10 rounded-full transition-colors" aria-label="LinkedIn">
-                      <Linkedin className="text-amber-400" size={20} />
-                    </a>
-                    <a href="#" className="p-3 bg-white/5 hover:bg-white/10 rounded-full transition-colors" aria-label="Personal Website">
-                      <Globe className="text-amber-400" size={20} />
-                    </a>
-                  </div>
+                 
                 </div>
               </motion.div>
               <motion.div variants={mapVariants} initial="hidden" whileInView="visible" viewport={{
