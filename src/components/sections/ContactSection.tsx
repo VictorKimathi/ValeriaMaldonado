@@ -226,7 +226,7 @@ export const ContactSection = () => {
                     <div>
                       <h4 className="font-medium text-white mb-1">Email</h4>
                       <p className="text-stone-300">
-                        hello@valeriamaldonado.com
+                        valeriamaldonado198@gmail.com
                       </p>
                     </div>
                   </div>
@@ -237,7 +237,7 @@ export const ContactSection = () => {
                     <div>
                       <h4 className="font-medium text-white mb-1">Based In</h4>
                       <p className="text-stone-300">
-                        Barcelona, Spain (Available Worldwide)
+                        915 Green Park, San Antonio, TX 78227
                       </p>
                     </div>
                   </div>
@@ -247,7 +247,8 @@ export const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-medium text-white mb-1">Phone</h4>
-                      <p className="text-stone-300">+34 612 345 678</p>
+                      <p className="text-stone-300">(210) 657-9386 
+</p>
                     </div>
                   </div>
                 </div>
